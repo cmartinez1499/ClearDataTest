@@ -37,8 +37,6 @@ class Assignment1(Resource):
 	    responses:
 	      200:
 	        description: Boolean denoting if string contains all letters of alphabet
-	        schema:
-	          $ref: '#/definitions/Palette'
 	        examples:
 	          contains-all-alphas: true
 	    """
@@ -64,8 +62,6 @@ class Assignment2(Resource):
 	    responses:
 	      200:
 	        description: Boolean denoting if string contains all letters of alphabet
-	        schema:
-	          $ref: '#/definitions/Palette'
 	        examples:
 	          contains-all-alphas: true
 	    """
