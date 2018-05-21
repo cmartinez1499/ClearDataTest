@@ -21,8 +21,8 @@ This assignment was done using python 3 and flask-restful
 
 Class Assignment1 contains a straight forward implementation using subsets:
 
-`http://127.0.0.1:5000/v1/contains-all-alphas/subset?string=myStringToCheck`
+http://127.0.0.1:5000/v1/contains-all-alphas/subset?string=myStringToCheck
 
 Class Assignment2 uses set comprehension:
 
-`http://127.0.0.1:5000/v1/contains-all-alphas/loop?string=myStringToCheck`
+http://127.0.0.1:5000/v1/contains-all-alphas/loop?string=myStringToCheck
